@@ -1,0 +1,2 @@
+class OktaAuthentication < ApplicationRecord
+end
